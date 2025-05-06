@@ -2,6 +2,8 @@
     
     Aplicativo em Python com interface gráfica para baixar o áudio de vídeos do YouTube no formato MP3.
 
+![Interface do App](assets/interface.jpg)
+
 ✨ Funcionalidades
 
     🎧 Download de Áudio: Extrai o áudio de vídeos do YouTube em alta qualidade.
