@@ -54,6 +54,6 @@
 
     - customtkinter
     - pytubefix
-    - ffmpeg (deve estar instalado e acessível no PATH do sistema)
+    - ffmpeg 
 
 ![Pós-download](assets/appfinal.jpg)
